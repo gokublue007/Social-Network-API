@@ -11,6 +11,10 @@ const userSeeds = [
     {
         username: "tracye123",
         email: "tracye123@gmail.com",
+    },
+    {
+        username: "rolly",
+        email: "rolly2002@gmail.com",
     }
 ];
 
@@ -22,6 +26,10 @@ const thoughtSeeds = [
     {
         thoughtText: "What is the meaning of life?",
         username: "tracye123",
+    },
+    {
+        thoughtText: "Wake up you are dreaming!",
+        username: "rolly",
     }
 ]
 
